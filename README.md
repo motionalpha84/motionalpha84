@@ -9,13 +9,6 @@
 Measuring the vast expanse by each stride, wherever my path leads, all yields to knowing.<br>
 以足履为尺，丈量寰宇，所至之处，俱成可知
 
-<a href="https://github.com/motionalpha84">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-motionalpha84-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-<a href="https://github.com/motionalpha84/orbit-workbench">
-  <img alt="Featured project" src="https://img.shields.io/badge/Featured-orbit--workbench-0969DA?style=flat-square&logo=github&logoColor=white">
-</a>
-
 </div>
 
 ---
