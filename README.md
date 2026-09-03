@@ -16,29 +16,28 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### Current Focus
-
-- Building browser-based orbit simulation and visualization tools.
-- Exploring ECI/ECEF coordinate systems, ground tracks, and perturbation models.
-- Turning engineering calculations into clear interactive interfaces.
-- Keeping projects reproducible, tested, and easy to run locally.
-
+      <p><strong>Current Focus</strong></p>
+      <ul>
+        <li>Building browser-based orbit simulation and visualization tools.</li>
+        <li>Exploring ECI/ECEF coordinate systems, ground tracks, and perturbation models.</li>
+        <li>Turning engineering calculations into clear interactive interfaces.</li>
+        <li>Keeping projects reproducible, tested, and easy to run locally.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-
-### Tech I Use
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-- Frontend interaction design for technical workflows.
-- Numerical modeling and data import/export tooling.
-- Test-driven refinement for scientific visualization behavior.
-
+      <p><strong>Tech I Use</strong></p>
+      <p>
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000">
+        <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
+        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white">
+        <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+        <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+      </p>
+      <ul>
+        <li>Frontend interaction design for technical workflows.</li>
+        <li>Numerical modeling and data import/export tooling.</li>
+        <li>Test-driven refinement for scientific visualization behavior.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -46,36 +45,28 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### Featured Project
-
-#### [orbit-workbench](https://github.com/motionalpha84/orbit-workbench)
-
-轨道可视化工作台：一个本地网页应用，用于演示 ECI / ECEF 坐标系下的轨道仿真、星下点轨迹和位置/速度矢量标定。
-
-Highlights:
-
-- Multi-orbit management and interactive 3D Earth visualization.
-- Ground-track map view with import/export support.
-- Two-body, J2, and J3 perturbation model options.
-- Vector calibration workflow with batch target management.
-- Offline-friendly local server and vendored frontend dependencies.
-
+      <p><strong>Featured Project</strong></p>
+      <p><a href="https://github.com/motionalpha84/orbit-workbench"><strong>orbit-workbench</strong></a></p>
+      <p>轨道可视化工作台：一个本地网页应用，用于演示 ECI / ECEF 坐标系下的轨道仿真、星下点轨迹和位置/速度矢量标定。</p>
+      <p><strong>Highlights:</strong></p>
+      <ul>
+        <li>Multi-orbit management and interactive 3D Earth visualization.</li>
+        <li>Ground-track map view with import/export support.</li>
+        <li>Two-body, J2, and J3 perturbation model options.</li>
+        <li>Vector calibration workflow with batch target management.</li>
+        <li>Offline-friendly local server and vendored frontend dependencies.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-
-### Project Values
-
-- **Clarity:** make complex orbital mechanics easier to inspect.
-- **Reliability:** keep behavior covered by focused automated tests.
-- **Local-first:** run without cloud services or installation-heavy setup.
-- **Exploration:** make simulation parameters feel direct and observable.
-
-```bash
-npm start
-npm test
-```
-
+      <p><strong>Project Values</strong></p>
+      <ul>
+        <li><strong>Clarity:</strong> make complex orbital mechanics easier to inspect.</li>
+        <li><strong>Reliability:</strong> keep behavior covered by focused automated tests.</li>
+        <li><strong>Local-first:</strong> run without cloud services or installation-heavy setup.</li>
+        <li><strong>Exploration:</strong> make simulation parameters feel direct and observable.</li>
+      </ul>
+      <pre><code>npm start
+npm test</code></pre>
     </td>
   </tr>
 </table>
