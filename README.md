@@ -1,8 +1,8 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/motionalpha84/motionalpha84/main/assets/typing.svg"
-  alt="Hi, I'm Motion. Orbit Visualization Explorer"
+  src="https://raw.githubusercontent.com/motionalpha84/motionalpha84/main/assets/typing.svg?v=20260903-2"
+  alt="Hi, I’m VELLICHOR — an orbital dynamics researcher."
 />
 
 Learning is a lifelong journey.
