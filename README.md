@@ -1,8 +1,8 @@
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=1000&color=74E8D4&center=true&vCenter=true&repeat=false&width=720&lines=Hi%2C+I'm+Vellichor.+Orbit+Visualization+Explorer"
-  alt="Hi, I'm Vellichor. Orbit Visualization Explorer"
+  src="https://raw.githubusercontent.com/motionalpha84/motionalpha84/main/assets/typing.svg"
+  alt="Hi, I'm Motion. Orbit Visualization Explorer"
 />
 
 Learning is a lifelong journey.
