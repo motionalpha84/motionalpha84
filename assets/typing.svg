@@ -9,6 +9,10 @@
       dominant-baseline: middle;
     }
 
+    .headline {
+      text-anchor: middle;
+    }
+
     .base {
       opacity: 0;
       animation: hold-text 1ms linear 2600ms forwards;
@@ -82,15 +86,15 @@
   </defs>
 
   <g class="base">
-    <text x="54" y="25" fill="#568C87">Hi, I’m </text>
-    <text x="150" y="25" fill="#616C8C">VELLICHOR</text>
-    <text x="258" y="25" fill="#568C87"> — an orbital dynamics researcher.</text>
+    <text class="headline" x="360" y="25" textLength="612" lengthAdjust="spacing" xml:space="preserve">
+      <tspan fill="#568C87">Hi, I’m </tspan><tspan fill="#616C8C">VELLICHOR </tspan><tspan fill="#568C87">— an orbital dynamics researcher.</tspan>
+    </text>
   </g>
 
   <g class="typed">
-    <text x="54" y="25" fill="#568C87">Hi, I’m </text>
-    <text x="150" y="25" fill="#616C8C">VELLICHOR</text>
-    <text x="258" y="25" fill="#568C87"> — an orbital dynamics researcher.</text>
+    <text class="headline" x="360" y="25" textLength="612" lengthAdjust="spacing" xml:space="preserve">
+      <tspan fill="#568C87">Hi, I’m </tspan><tspan fill="#616C8C">VELLICHOR </tspan><tspan fill="#568C87">— an orbital dynamics researcher.</tspan>
+    </text>
   </g>
 
   <rect class="caret" x="54" y="12" width="2" height="25" rx="1" />
