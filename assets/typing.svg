@@ -6,7 +6,7 @@
       font-family: "JetBrains Mono", "Cascadia Mono", Consolas, monospace;
       font-size: 20px;
       font-weight: 700;
-      letter-spacing: 0;
+      letter-spacing: 0.08em;
       dominant-baseline: middle;
     }
 
@@ -88,13 +88,13 @@
 
   <g class="base">
     <text class="headline" x="360" y="25" xml:space="preserve">
-      <tspan fill="#568C87">Hi, I’m </tspan><tspan fill="#616C8C">VELLICHOR</tspan><tspan fill="#568C87" dx="0.55em">— an orbital dynamics researcher.</tspan>
+      <tspan fill="#568C87">Hi, I’m </tspan><tspan fill="#616C8C">VELLICHOR</tspan><tspan fill="#568C87" dx="0.75em">— an orbital dynamics researcher.</tspan>
     </text>
   </g>
 
   <g class="typed">
     <text class="headline" x="360" y="25" xml:space="preserve">
-      <tspan fill="#568C87">Hi, I’m </tspan><tspan fill="#616C8C">VELLICHOR</tspan><tspan fill="#568C87" dx="0.55em">— an orbital dynamics researcher.</tspan>
+      <tspan fill="#568C87">Hi, I’m </tspan><tspan fill="#616C8C">VELLICHOR</tspan><tspan fill="#568C87" dx="0.75em">— an orbital dynamics researcher.</tspan>
     </text>
   </g>
 
