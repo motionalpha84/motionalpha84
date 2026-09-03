@@ -25,15 +25,16 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
   <picture><img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"></picture>
 </p>
 
-- Numerical modeling and data processing tool development.
-- Visualization platform development based on frontend interaction design.
-- Node development and optimization for ComfyUI workflows.
-
-<br>
-
-- 数值建模与数据处理工具开发
-- 基于前端交互设计可视化平台
-- 面向ComfyUI工作流的节点开发与优化
+<ul>
+  <li>Numerical modeling and data processing tool development.</li>
+  <li>Visualization platform development based on frontend interaction design.</li>
+  <li>Node development and optimization for ComfyUI workflows.</li>
+</ul>
+<ul>
+  <li>数值建模与数据处理工具开发</li>
+  <li>基于前端交互设计可视化平台</li>
+  <li>面向ComfyUI工作流的节点开发与优化</li>
+</ul>
 
 <br>
 
