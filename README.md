@@ -13,7 +13,7 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 
 ---
 
-<p><strong>Tech I Use</strong></p>
+<h3>Tech I Use</h3>
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000">
@@ -29,7 +29,7 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 
 <br>
 
-<p><strong>Current Focus</strong></p>
+<h3>Current Focus</h3>
 
 - Building browser-based orbit simulation and visualization tools.
 - Exploring ECI/ECEF coordinate systems, ground tracks, and perturbation models.
@@ -38,13 +38,13 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 
 <br>
 
-<p><strong>Featured Project</strong></p>
+<h3>Featured Project</h3>
 
 <p><a href="https://github.com/motionalpha84/orbit-workbench"><strong>orbit-workbench</strong></a></p>
 
 轨道可视化工作台：一个本地网页应用，用于演示 ECI / ECEF 坐标系下的轨道仿真、星下点轨迹和位置/速度矢量标定。
 
-<p><strong>Highlights:</strong></p>
+<h4>Highlights</h4>
 
 - Multi-orbit management and interactive 3D Earth visualization.
 - Ground-track map view with import/export support.
