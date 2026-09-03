@@ -16,16 +16,24 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 <h3>Tech I Use</h3>
 
 <p>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000">
   <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-- Frontend interaction design for technical workflows.
-- Numerical modeling and data import/export tooling.
-- Test-driven refinement for scientific visualization behavior.
+- Numerical modeling and data processing tool development.
+- Visualization platform development based on frontend interaction design.
+- Node development and optimization for ComfyUI workflows.
+
+<br>
+
+- 数值建模与数据处理工具开发
+- 基于前端交互设计可视化平台
+- 面向ComfyUI工作流的节点开发与优化
 
 <br>
 
