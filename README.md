@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/motionalpha84/motionalpha84/main/assets/typing.svg?v=20260903-5"
+  src="https://raw.githubusercontent.com/motionalpha84/motionalpha84/main/assets/typing.svg?v=20260903-6"
   alt="Hi, I’m VELLICHOR — an orbital dynamics researcher."
 />
 
