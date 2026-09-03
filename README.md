@@ -5,7 +5,8 @@
   alt="Hi, I’m VELLICHOR — an orbital dynamics researcher."
 />
 
-Learning is a lifelong journey.
+Measuring the vast expanse by each stride, wherever my path leads, all yields to knowing.<br>
+以足履为尺，丈量寰宇，所至之处，俱成可知
 
 <a href="https://github.com/motionalpha84">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-motionalpha84-181717?style=flat-square&logo=github&logoColor=white">
