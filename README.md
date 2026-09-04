@@ -13,7 +13,7 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 
 ---
 
-<h3>Tech I Use</h3>
+<p><strong>Tech I Use</strong></p>
 
 <p>
   <picture><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"></picture>
@@ -38,22 +38,25 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 
 <br>
 
-<h3>Current Focus</h3>
+<p><strong>Current Focus</strong></p>
 
-- Building browser-based orbit simulation and visualization tools.
-- Exploring ECI/ECEF coordinate systems, ground tracks, and perturbation models.
-- Turning engineering calculations into clear interactive interfaces.
-- Keeping projects reproducible, tested, and easy to run locally.
+- Building visualization tools for orbit simulation, ground tracks, and perturbation effects.
+- Solving Lambert and initial orbit determination (IOD) problems from velocity vectors using Hodograph vector diagrams.
+- Enhancing and optimizing the functionality of Anima model nodes in Stable Diffusion graphical runtimes and workflow engines.
+
+- 构建针对轨道仿真、星下点轨迹及摄动影响的可视化工具。
+- 基于Hodograph矢量图求解速度矢量下的Lambert问题/IOD问题
+- 对Anima模型相关节点在Stable Diffusion图形化运行环境与工作流引擎中的功能表现进行完善优化
 
 <br>
 
-<h3>Featured Project</h3>
+<p><strong>Featured Project</strong></p>
 
 <p><a href="https://github.com/motionalpha84/orbit-workbench"><strong>orbit-workbench</strong></a></p>
 
 轨道可视化工作台：一个本地网页应用，用于演示 ECI / ECEF 坐标系下的轨道仿真、星下点轨迹和位置/速度矢量标定。
 
-<h4>Highlights</h4>
+<p><strong>Highlights</strong></p>
 
 - Multi-orbit management and interactive 3D Earth visualization.
 - Ground-track map view with import/export support.
@@ -65,7 +68,7 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 
 <div align="center">
 
-### A small note
+  <p><strong>A small note</strong></p>
 
 I like tools that make abstract motion visible: orbits, vectors, maps, and the quiet logic behind them.
 
