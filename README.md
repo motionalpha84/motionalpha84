@@ -40,13 +40,16 @@ Measuring the vast expanse by each stride, wherever my path leads, all yields to
 
 <p><strong>Current Focus</strong></p>
 
-- Building visualization tools for orbit simulation, ground tracks, and perturbation effects.
-- Solving Lambert and initial orbit determination (IOD) problems from velocity vectors using Hodograph vector diagrams.
-- Enhancing and optimizing the functionality of Anima model nodes in Stable Diffusion graphical runtimes and workflow engines.
-
-- 构建针对轨道仿真、星下点轨迹及摄动影响的可视化工具。
-- 基于Hodograph矢量图求解速度矢量下的Lambert问题/IOD问题
-- 对Anima模型相关节点在Stable Diffusion图形化运行环境与工作流引擎中的功能表现进行完善优化
+<ul>
+  <li>Building visualization tools for orbit simulation, ground tracks, and perturbation effects.</li>
+  <li>Solving Lambert and initial orbit determination (IOD) problems from velocity vectors using Hodograph vector diagrams.</li>
+  <li>Enhancing and optimizing the functionality of Anima model nodes in Stable Diffusion graphical runtimes and workflow engines.</li>
+</ul>
+<ul>
+  <li>构建针对轨道仿真、星下点轨迹及摄动影响的可视化工具。</li>
+  <li>基于Hodograph矢量图求解速度矢量下的Lambert问题/IOD问题</li>
+  <li>对Anima模型相关节点在Stable Diffusion图形化运行环境与工作流引擎中的功能表现进行完善优化</li>
+</ul>
 
 <br>
 
